@@ -21,6 +21,7 @@
     "joi": "^13.4.0",
     "method-override": "^2.3.10",
     "moment": "^2.22.2",
+    "mongoimport": "^1.0.6",
     "mongoose": "^5.2.1",
     "mongoose-paginate": "^5.0.3",
     "multer": "^1.4.1",
